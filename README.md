@@ -8,6 +8,12 @@ Date: 2023 july
 
 1. Objectives
 
+1.1 The why
+
+1.2 Purpose
+
+1.3 Insights that the project might bring
+
 
 2. Material
 
