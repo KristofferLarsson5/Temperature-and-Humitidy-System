@@ -5,8 +5,7 @@ Student credentials: kl223kk
 Date: 2023 july
 # Temperature-and-Humitidy-System
 
-
-1. Objectives
+# 1. Objectives
 
 1.1 The why
 
