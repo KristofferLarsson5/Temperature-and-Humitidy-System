@@ -2,8 +2,8 @@ import network
 import time
 
 # Fill in your WiFi network name (ssid) and password here:
-wifi_ssid = "Bredband2-2897"
-wifi_password = "DORS2SSTVQPBII"
+wifi_ssid = ""
+wifi_password = ""
 
 # Connect to WiFi
 wlan = network.WLAN(network.STA_IF)
