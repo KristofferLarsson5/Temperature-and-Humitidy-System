@@ -24,8 +24,12 @@ After this tutorial you will get a basic understanding of how you can work with 
 # 2. Material
 | Material name | Functionality | Where to buy |
 |----------|----------|----------|
-| Raspberry pi pico w   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on WiFi   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   |
-| Data 4   | Data 5   | Data 6   |
+| Raspberry pi pico wh   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on WiFi   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   |
+| USB to micro-USB cable    | Transfers electricity to the microcontroller, which both gives it electricity to run, but also makes it possible to program it when plugged into a computer   | https://www.electrokit.com/produkt/usb-kabel-a-hane-mini-b-hane-5p-1-8m/|
+| Sensor DHT11   | A sensor that measures the temperature and humidity   | https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/|
+| Breadboard| A breadboard with connections that makes it easier to connect the microcontroller with the sensors   | https://www.electrokit.com/en/product/solderless-breadboard-400-tie-points/   |
+| Cables – male to male   | Connects electricity between the microcontroller, sensors and the power supply   | https://www.electrokit.com/produkt/labsladd-1-pin-hane-hane-150mm-10-pack/|
+
 
 
 # 3. Environment Setup
