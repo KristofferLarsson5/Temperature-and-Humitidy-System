@@ -22,7 +22,10 @@ The purpose of this project is to give the user an introductiction to how you ca
 After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico w, the DHT11 sensor, adafruit and microPython.
 
 # 2. Material
-
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
 
 # 3. Environment Setup
 
