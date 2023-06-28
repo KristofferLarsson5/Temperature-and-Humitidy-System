@@ -22,10 +22,11 @@ The purpose of this project is to give the user an introductiction to how you ca
 After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico w, the DHT11 sensor, adafruit and microPython.
 
 # 2. Material
-| Column 1 | Column 2 | Column 3 |
+| Material name | Functionality | Where to buy |
 |----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
+| Raspberry pi pico w   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on WiFi   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   |
 | Data 4   | Data 5   | Data 6   |
+
 
 # 3. Environment Setup
 
