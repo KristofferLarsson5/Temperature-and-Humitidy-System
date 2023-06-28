@@ -10,12 +10,15 @@ Time estimation for project: 5 hours
 # 1. Objectives
 
 1.1 The why
+
 Early on I knew that I wanted to use the DHT11 sensor to monitor my room, this to be able to get a clear understanding of how the climate in my apartment changes over the day. The fact that the DHT11 sensor also meausures humitidy made it clear to me that this sensor also were more superiour than a standard thermostate.
 
 1.2 Purpose
+
 The purpose of this project is to give the user an introductiction to how you can work with microcontrollers and basic sensors.
 
 1.3 Insights that the project might bring
+
 After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico w, the DHT11 sensor, adafruit and microPython.
 
 # 2. Material
