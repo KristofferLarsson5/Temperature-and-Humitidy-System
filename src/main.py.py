@@ -5,14 +5,14 @@ import machine
 
 # Fill in your Adafruit IO Authentication and Feed MQTT Topic details
 mqtt_host = "io.adafruit.com"
-mqtt_username = "KristofferLarsson5"  # Your Adafruit IO username
-mqtt_password = "aio_wgti93DTRfas1jUIdC30LhiOGEHs"  # Adafruit IO Key
-mqtt_temperature_topic = "KristofferLarsson5/feeds/temperature-graph"  # Temperature MQTT topic
-mqtt_humidity_topic = "KristofferLarsson5/feeds/humidity-graph"  # Humidity MQTT topic
+mqtt_username = ""  # Your Adafruit IO username
+mqtt_password = ""  # Adafruit IO Key
+mqtt_temperature_topic = ""  # Temperature MQTT topic
+mqtt_humidity_topic = ""  # Humidity MQTT topic
 
 # Enter a random ID for this MQTT Client
 # It needs to be globally unique across all of Adafruit IO.
-mqtt_client_id = "Kristoffer_DHT11_LNU2023"
+mqtt_client_id = ""
 
 # Initialize our MQTTClient and connect to the MQTT server
 mqtt_client = MQTTClient(
