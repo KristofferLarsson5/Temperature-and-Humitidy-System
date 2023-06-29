@@ -55,6 +55,7 @@ Step 5: Paste the uf2 file into the raspberry and wait till it disconnects and r
 You have now updated the firmware on your raspberry and are ready to use it
 
 3.3 Setting up Thonny
+
 Step 1: Download Thonny from: https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe
 
 # 4. Putting everything togheter
