@@ -10,15 +10,15 @@ Time estimation for project: 5 hours
 
 # 1. Objectives
 
-1.1 The why
+**1.1 The why**
 
 Early on I knew that I wanted to use the DHT11 sensor to monitor my room, this to be able to get a clear understanding of how the climate in my apartment changes over the day. The fact that the DHT11 sensor also meausures humitidy made it clear to me that this sensor also were more superiour than a standard thermostate.
 
-1.2 Purpose
+**1.2 Purpose**
 
 The purpose of this project is to give the user an introductiction to how you can work with microcontrollers and basic sensors.
 
-1.3 Insights that the project might bring
+**1.3** Insights that the project might bring
 
 After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico WH, the DHT11 sensor, adafruit and microPython.
 
@@ -34,13 +34,13 @@ After this tutorial you will get a basic understanding of how you can work with 
 
 
 # 3. Environment Setup
-3.1 Why I choose Thonny
+**3.1** Why I choose Thonny
 
 The reason that I chose Thonny as my IDE was because I had never worked with it nor heard about it. I quickly started to favor the basic setup and UI that Thonny offered.
 
 Although that Thonny were my choice I actually also tried to use VScode and it also worked quite well, though in this tutorial I will only cover Thonny, but remember that VScode absolutly also is an option.
 
-3.2 Setting up the raspberry
+**3.2** Setting up the raspberry
 
 Step 1: Remove the black sponge from the Pico
 
@@ -54,7 +54,7 @@ Step 5: Paste the uf2 file into the raspberry and wait till it disconnects and r
 
 You have now updated the firmware on your raspberry and are ready to use it
 
-3.3 Setting up Thonny
+**3.3** Setting up Thonny
 
 Step 1: Download Thonny from: https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe
 
