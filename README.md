@@ -82,6 +82,19 @@ After just a couple of tries with MQTT I quickly realized that this would be mor
 
 **5.2 How to get acess to MQTT with Thonny**
 
+Step 1: Head over to adafruit and create an user: www.adafruit.com
+
+Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simple (You can verify that it’s been installed by checking the file section in Thonny)
+
+![2023-06-29 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/7a331f4f-f066-4ea0-ace1-616615552b1a)
+
+If you have any problem with the installation then I highly reccomend this video:
+
+https://www.youtube.com/watch?v=ybCMXqsQyDw
+
+It doesn't explain this tutorial but it can give you an understanding of how to work with MQTT.
+
+After this you can start programming, the next step will explain how to do that! 
 # 6. The code
 
 # 7. The physical network layer
