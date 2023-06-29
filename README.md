@@ -78,6 +78,8 @@ You now have succeded with connecting your raspberry to Thonny, and your chosen 
 
 After just a couple of tries with MQTT I quickly realized that this would be more than enough for this project. I navigated to the Adafruit website and quickly got started with sending data from my device to the internet. The technical aspect was in my opinion not very hard to understand, and the code that you needed to provide were straightforward (more on this in the next part)
 
+**5.2 How to get acess to MQTT with Thonny**
+
 # 6. The code
 
 # 7. The physical network layer
