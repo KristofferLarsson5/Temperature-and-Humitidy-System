@@ -40,12 +40,22 @@ The reason that I chose Thonny as my IDE was because I had never worked with it 
 
 Although that Thonny were my choice I actually also tried to use VScode and it also worked quite well, though in this tutorial I will only cover Thonny, but remember that VScode absolutly also is an option.
 
-3.2 Setting up the environment
+3.2 Setting up the raspberry
 
 Step 1: Remove the black sponge from the Pico
+
 Step 2: Download the micropython firmware, you will get a uf2 file, be sure to chose the latest from **releases** category: https://micropython.org/download/rp2-pico-w/
 
-Step : install Thonny IDE
+Step 3: Connect your raspberry pi to your computer by using the micro-usb cable
+
+Step 4: While holding the BOOTSEL key on the raspberry, connect to your computer. Release the button after you see a new drive with the name RPI-RP2
+
+Step 5: Paste the uf2 file into the raspberry and wait till it disconnects and reconnects to your computer
+
+You have now updated the firmware on your raspberry and are ready to use it
+
+3.3 Setting up Thonny
+Step 1: Download Thonny from: https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe
 
 # 4. Putting everything togheter
 ![Alt Text](2023-06-13.png)
