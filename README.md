@@ -74,6 +74,9 @@ You now have succeded with connecting your raspberry to Thonny, and your chosen 
 ![Alt Text](2023-06-13.png)
 
 # 5. Platforms and infrastructure
+**5.1 Why I choose MQTT as my messaging protocol and Adafruit as my platform**
+
+After just a couple of tries with MQTT I quickly realized that this would be more than enough for this project. I navigated to the Adafruit website and quickly got started with sending data from my device to the internet. The technical aspect was in my opinion not very hard to understand, and the code that you needed to provide were straightforward (more on this in the next part)
 
 # 6. The code
 
