@@ -59,6 +59,7 @@ You have now updated the firmware on your raspberry and are ready to use it
 Step 1: Download Thonny from: https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe
 
 Step 2: Open Thonny and press View >> Files
+
 ![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/4fae9d41-4c5f-4fef-846b-01139a83111d)
 
 Step 3: Open interpreter from Run >> Configure interpreter
