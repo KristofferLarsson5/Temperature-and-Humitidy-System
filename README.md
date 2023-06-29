@@ -19,7 +19,7 @@ The purpose of this project is to give the user an introductiction to how you ca
 
 1.3 Insights that the project might bring
 
-After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico wh, the DHT11 sensor, adafruit and microPython.
+After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico WH, the DHT11 sensor, adafruit and microPython.
 
 # 2. Material
 | Material name | Functionality | Where to buy |
