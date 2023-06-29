@@ -58,7 +58,16 @@ You have now updated the firmware on your raspberry and are ready to use it
 
 Step 1: Download Thonny from: https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe
 
-![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/dcab7b9e-ef4b-4a32-a76d-6a4095f01003)
+Step 2: Open Thonny and press View >> Files
+![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/4fae9d41-4c5f-4fef-846b-01139a83111d)
+
+Step 3: Open interpreter from Run >> Configure interpreter
+![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/60ee4bb9-97ea-4e4e-85ca-264da4cdcbc6)
+
+Step 4: Choose MicroPython as your interpreter and after that choose your USB-port that is connected to your raspberry
+![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/0ce9545f-c483-4f29-b0e4-763fa4cd066e)
+
+You now have succeded with connecting your raspberry to Thonny, and your chosen programming language is micropython
 
 # 4. Putting everything togheter
 ![Alt Text](2023-06-13.png)
