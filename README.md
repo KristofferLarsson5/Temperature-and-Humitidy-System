@@ -23,13 +23,14 @@ The purpose of this project is to give the user an introductiction to how you ca
 After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico WH, the DHT11 sensor, adafruit and microPython.
 
 # 2. Material
-| Material name | Functionality | Where to buy |
-|----------|----------|----------|
-| Raspberry pi pico wh   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on WiFi.   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   |
-| USB to micro-USB cable    | Transfers electricity to the microcontroller, which both gives it electricity to run, but also makes it possible to program it when plugged into a computer.   | https://www.electrokit.com/produkt/usb-kabel-a-hane-mini-b-hane-5p-1-8m/|
-| Sensor DHT11   | A sensor that measures the temperature and humidity.   | https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/|
-| Breadboard| A breadboard with connections that makes it easier to connect the microcontroller with the sensors.   | https://www.electrokit.com/en/product/solderless-breadboard-400-tie-points/   |
-| Cables – male to male   | Connects electricity between the microcontroller, sensors and the power supply.   | https://www.electrokit.com/produkt/labsladd-1-pin-hane-hane-150mm-10-pack/|
+| Material name | Functionality | Where to buy | Cost |
+|----------|----------|----------|----------|
+| Raspberry pi pico wh   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on WiFi.   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   | 98kr |
+| USB to micro-USB cable    | Transfers electricity to the microcontroller, which both gives it electricity to run, but also makes it possible to program it when plugged into a computer.   | https://www.electrokit.com/produkt/usb-kabel-a-hane-mini-b-hane-5p-1-8m/| 39kr |
+| Sensor DHT11   | A sensor that measures the temperature and humidity.   | https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/| 49kr |
+| Breadboard| A breadboard with connections that makes it easier to connect the microcontroller with the sensors.   | https://www.electrokit.com/en/product/solderless-breadboard-400-tie-points/   | 49kr |
+| Cables – male to male   | Connects electricity between the microcontroller, sensors and the power supply.   | https://www.electrokit.com/produkt/labsladd-1-pin-hane-hane-150mm-10-pack/|29kr |
+| Computer  | To program the microcontroller on |
 
 
 
