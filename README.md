@@ -98,7 +98,7 @@ After this you can start programming, the next step will explain how to do that!
 # 6. The code
 
 ```python
-print("Hello, World!")
+print("Hello, World!") ```
 
 # 7. The physical network layer
 
