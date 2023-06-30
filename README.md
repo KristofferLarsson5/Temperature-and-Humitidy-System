@@ -97,10 +97,26 @@ It doesn't explain this tutorial but it can give you an understanding of how to 
 After this you can start programming, the next step will explain how to do that! 
 # 6. The code
 
-```python
-print("Hello, World!") 
+import network
+import time
 
-end?
+# Fill in your WiFi network name (ssid) and password here:
+wifi_ssid = "Bredband2-2897"
+wifi_password = "DORS2SSTVQPBII"
+
+# Connect to WiFi
+
+``` python
+wlan = network.WLAN(network.STA_IF)
+wlan.active(True)
+wlan.connect(wifi_ssid, wifi_password)
+while not wlan.isconnected():
+    print('Waiting for connection...')
+    time.sleep(1)
+print("Connected to WiFi"
+
+```
+
 # 7. The physical network layer
 
 # 8. Visualization and user interface
