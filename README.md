@@ -97,6 +97,7 @@ It doesn't explain this tutorial but it can give you an understanding of how to 
 After this you can start programming, the next step will explain how to do that! 
 # 6. The code
 
+**Boot.py**
 ``` python
 import network
 import time
@@ -116,6 +117,12 @@ print("Connected to WiFi")
 
 ```
 
+**main.py**
+
+``` python
+
+
+```
 # 7. The physical network layer
 
 # 8. Visualization and user interface
