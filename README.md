@@ -100,7 +100,7 @@ After this you can start programming, the next step will explain how to do that!
 ```python
 print("Hello, World!") 
 
-ANd this is normal text
+end?
 # 7. The physical network layer
 
 # 8. Visualization and user interface
