@@ -98,8 +98,9 @@ After this you can start programming, the next step will explain how to do that!
 # 6. The code
 
 ```python
-print("Hello, World!") ```
+print("Hello, World!") 
 
+ANd this is normal text
 # 7. The physical network layer
 
 # 8. Visualization and user interface
