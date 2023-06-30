@@ -96,6 +96,10 @@ It doesn't explain this tutorial but it can give you an understanding of how to 
 
 After this you can start programming, the next step will explain how to do that! 
 # 6. The code
+"""python
+
+print("HELLO")
+"""
 
 # 7. The physical network layer
 
