@@ -89,7 +89,13 @@ Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simp
 
 ![2023-06-29 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/7a331f4f-f066-4ea0-ace1-616615552b1a)
 
-If you have any problem with the installation then I highly reccomend this video:
+**5.3 Creation of feeds**
+
+Step 1: In adafruit.com go to IO and then Feeds
+
+Step 2: Create two new feeds, on named temperature-graph and one named humitidy-graph. These feeds will be of use to us later
+
+If you have any problem with the installation or MQTT/Adafruit then I highly reccomend this video:
 
 https://www.youtube.com/watch?v=ybCMXqsQyDw
 
@@ -125,7 +131,7 @@ print("Connected to WiFi")
 
 **main.py**
 
-This is the file that runs after boot.py have connected to the internet, once again you can just copy and use my code but beaware that you need to enter your Adafruit IO username, IO key, MQTT topics ( which feeds that you want to send to) and a mqtt_client_id.
+This is the file that runs after boot.py have connected to the internet, once again you can just copy and use my code but beaware that you need to enter your Adafruit IO username, IO key, MQTT topics which are the feeds we created earlier (check 5.3) and a mqtt_client_id.
 
 After this have been done your sensors will collect the data and send it to your adafruit dashboard.
 
