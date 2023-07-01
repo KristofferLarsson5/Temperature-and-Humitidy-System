@@ -4,7 +4,7 @@ Student credentials: kl223kk
 
 Date: 2023 july
 # Temperature-and-Humitidy-System
-This tutorial will show you how to use the raspberry pi pico WH to send information about the humitidy and temperature in your room. For this to be done you will be using the raspberry pi pico WH, a DHT11 sensor, code in MicroPython and adafruit. 
+In this tutorial, I will provide you with a comprehensive guide on utilizing the Raspberry Pi Pico WH to wirelessly transmit humidity and temperature information from any location where you have access to WiFi and a power source. You will need the Raspberry Pi Pico WH, a DHT11 sensor, MicroPython code, and Adafruit. I'll show you how to set up the Raspberry Pi Pico WH, connect the DHT11 sensor, and write code in MicroPython to collect and transmit the data. By following the instructions, you'll learn the basics of these components and be able to create a system that monitors and sends humidity and temperature data.
 
 Time estimation for project: 5 hours
 
