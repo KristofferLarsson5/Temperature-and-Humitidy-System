@@ -191,7 +191,7 @@ finally:
 
 ```
 # 7. The physical network layer
-
+The DHT11 sensor collects information like temperature and humidity. This information travels through the cables to the microcontroller. The microcontroller then sends the data to Adafruit using WiFi. At Adafruit, the data is shown on a line chart, which is a visual representation of how the values change over time.
 # 8. Visualization and user interface
 
 # 9. Finalizing the design
