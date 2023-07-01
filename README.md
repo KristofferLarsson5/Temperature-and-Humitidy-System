@@ -16,11 +16,11 @@ Early on I knew that I wanted to use the DHT11 sensor to monitor my room, this t
 
 **1.2 Purpose**
 
-The purpose of this project is to give the user an introductiction to how you can work with microcontrollers and basic sensors.
+The main goal of this project is to help users learn the basics of working with microcontrollers and basic sensors. It aims to provide an introduction and familiarize them with the fundamentals of these technologies, allowing them to gain practical knowledge and skills. By engaging in this project, users will be able to understand how microcontrollers and sensors work together and explore their potential applications.
 
 **1.3 Insights that the project might bring**
 
-After this tutorial you will get a basic understanding of how you can work with the raspberry pi pico WH, the DHT11 sensor, adafruit and microPython.
+After going through this tutorial, you will gain a basic understanding of how to work with the Raspberry Pi Pico WH, the DHT11 sensor, Adafruit, and MicroPython. You will learn about the features and applications of the Raspberry Pi Pico WH microcontroller board, collect temperature and humidity data using the DHT11 sensor, explore the capabilities of Adafruit for expanding your project options, and use MicroPython to write code for interacting with hardware components. This tutorial will equip you with the essential knowledge to also start working on your own microcontroller projects.
 
 # 2. Material
 | Material name | Functionality | Where to buy | Cost |
