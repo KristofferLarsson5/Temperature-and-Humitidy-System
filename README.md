@@ -200,3 +200,6 @@ And here is an example in adafruit how it can looks when we decide to make a gra
 ![2023-07-01 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/2c7281f7-9d88-4cdb-993f-605c507e5b37)
 
 # 9. Finalizing the design
+
+![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/97e4e84c-fbe8-4149-99de-67a97d3690ec)
+
