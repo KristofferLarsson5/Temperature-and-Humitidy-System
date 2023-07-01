@@ -99,6 +99,9 @@ After this you can start programming, the next step will explain how to do that!
 # 6. The code
 
 **Boot.py**
+
+In Boot.py we connect to the WiFi, the only thing you have to do is copy my code and enter your own wifi_ssid and wifi_password!
+
 ``` python
 import network
 import time
