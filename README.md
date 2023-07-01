@@ -133,15 +133,11 @@ print("Connected to WiFi")
 
 **main.py**
 
-This is the file that runs after boot.py have connected to the internet, once again you can just copy and use my code but beaware that you need to enter your Adafruit IO username, IO key, MQTT topics which are the feeds we created earlier (check 5.3) and a mqtt_client_id.
+This is a snippet of the file that runs after boot.py have connected to the internet, beware that you need to enter your Adafruit IO username, IO key, MQTT topics which are the feeds we created earlier (check 5.3) and a mqtt_client_id.
 
 After this have been done your sensors will collect the data and send it to your adafruit feeds.
 
 ``` python
-import time
-from umqtt.simple import MQTTClient
-import dht
-import machine
 
 # Fill in your Adafruit IO Authentication and Feed MQTT Topic details
 mqtt_host = "io.adafruit.com"
@@ -163,6 +159,10 @@ mqtt_client = MQTTClient(
 
 mqtt_client.connect()
 
+```
+This next part of the code now takes the values from the sensors and publish it to our feeds. The feeds on the dashboard will now show the temparture and humitidy value of where you have put your setup. The button part which says ``` python time.sleep(10) ``` is telling us how many times that we are sending our values in seconds, in this example we are sending it every ten second. This can be modified by you as a user to your preference.
+
+``` python
 # Initialize the DHT sensor
 tempSensor = dht.DHT11(machine.Pin(27))     # DHT11 Constructor
 
