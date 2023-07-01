@@ -89,11 +89,13 @@ Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simp
 
 ![2023-06-29 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/7a331f4f-f066-4ea0-ace1-616615552b1a)
 
-**5.3 Creation of feeds**
+**5.3 Creation of feeds and dashboard**
 
 Step 1: In adafruit.com go to IO and then Feeds
 
 Step 2: Create two new feeds, on named temperature-graph and one named humitidy-graph. These feeds will be of use to us later
+
+Step 3: Create a new dashboard and add your two newly created feeds in two seperate line charts
 
 If you have any problem with the installation or MQTT/Adafruit then I highly reccomend this video:
 
