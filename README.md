@@ -135,7 +135,7 @@ print("Connected to WiFi")
 
 This is the file that runs after boot.py have connected to the internet, once again you can just copy and use my code but beaware that you need to enter your Adafruit IO username, IO key, MQTT topics which are the feeds we created earlier (check 5.3) and a mqtt_client_id.
 
-After this have been done your sensors will collect the data and send it to your adafruit dashboard.
+After this have been done your sensors will collect the data and send it to your adafruit feeds.
 
 ``` python
 import time
