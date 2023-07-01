@@ -98,7 +98,7 @@ It doesn't explain this tutorial but it can give you an understanding of how to 
 After this you can start programming, the next step will explain how to do that! 
 # 6. The code
 
-**Boot.py**
+**boot.py**
 
 In MicroPython, boot.py is a special filename that is commonly used for a script that runs automatically when a MicroPython device boots up. This file is executed during the boot process, allowing you to perform initialization tasks or set up the device's configuration before the main application code is run.
 
@@ -124,6 +124,10 @@ print("Connected to WiFi")
 ```
 
 **main.py**
+
+This is the file that runs after boot.py have connected to the internet, once again you can just copy and use my code but beaware that you need to enter your Adafruit IO username, IO key, MQTT topics ( which feeds that you want to send to) and a mqtt_client_id.
+
+After this have been done your sensors will collect the data and send it to your adafruit dashboard.
 
 ``` python
 import time
