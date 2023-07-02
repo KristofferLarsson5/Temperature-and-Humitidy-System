@@ -37,7 +37,7 @@ After going through this tutorial, you will gain a basic understanding of how to
 # 3. Environment Setup
 **3.1 Why I choose Thonny**
 
-The reason that I chose Thonny as my IDE was because I had never worked with it nor heard about it. I quickly started to favor the basic setup and UI that Thonny offered.
+The primary factor that influenced my decision to opt for Thonny as my preferred Integrated Development Environment (IDE) was the fact that I had no prior experience or knowledge about it. This unfamiliarity intrigued me, and upon exploring Thonny, I swiftly developed a preference for its simplistic setup and user interface (UI). The straightforwardness and ease of use provided by Thonny further solidified my choice.
 
 Although that Thonny were my choice I actually also tried to use VScode and it also worked quite well, though in this tutorial I will only cover Thonny, but remember that VScode absolutly also is an option.
 
