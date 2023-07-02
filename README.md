@@ -200,6 +200,8 @@ And here is an example in adafruit how it can looks when we decide to make a gra
 ![2023-07-01 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/2c7281f7-9d88-4cdb-993f-605c507e5b37)
 
 # 9. Finalizing the design
+I liked this project overall and I realise that there are alot of ways to make it more advanced. This could for example be creating an UI for the user where they can see the dashboard instead of having to log into adafruit or having led-lights on the breadboard which would glow if the DHT11-sensor reached a certain value. These are additions that I would personally add if I had more time, but as this is a public project I invite anyone to take what you have learned here and try it out yourself.
 
+This project has been a really fun and educational journey for me, introducing me to the world of IoT. Previously, I had experience programming software, but I had never ventured into the realm of physical programming. Exploring the IoT field has been incredibly interesting, as it feels like there are endless possibilities limited only by our imagination. 
 ![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/97e4e84c-fbe8-4149-99de-67a97d3690ec)
 
