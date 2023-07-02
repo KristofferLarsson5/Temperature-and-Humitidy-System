@@ -75,7 +75,7 @@ You now have succeded with connecting your raspberry to Thonny, and your chosen 
 
 # 4. Putting everything togheter
 ![Alt Text](2023-06-13.png)
-
+**Note: The importance here isn't that you place the microcontroller on the exact same spot as I've done it, but rather that the wiring is the same**
 # 5. Platforms and infrastructure
 **5.1 Why I choose MQTT as my messaging protocol and Adafruit as my platform**
 
