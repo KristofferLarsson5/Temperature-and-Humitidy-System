@@ -71,7 +71,10 @@ Step 4: Choose MicroPython as your interpreter and after that choose your USB-po
 
 ![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/0ce9545f-c483-4f29-b0e4-763fa4cd066e)
 
-You now have succeded with connecting your raspberry to Thonny, and your chosen programming language is micropython
+You now have succeded with connecting your raspberry to Thonny, and your chosen programming language is micropython. When saving you will see that you can either choose to save it on your computer or your Raspberry pi pico. 
+
+![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/0342c128-eea2-4d16-bb21-124d25443b8e)
+
 
 # 4. Putting everything togheter
 ![Alt Text](2023-06-13.png)
