@@ -20,7 +20,7 @@ The main goal of this project is to help users learn the basics of working with 
 
 **1.3 Insights that the project might bring**
 
-After going through this tutorial, you will gain a basic understanding of how to work with the Raspberry Pi Pico WH, the DHT11 sensor, Adafruit, and MicroPython. You will learn about the features and applications of the Raspberry Pi Pico WH microcontroller board, collect temperature and humidity data using the DHT11 sensor, explore the capabilities of Adafruit for expanding your project options, and use MicroPython to write code for interacting with hardware components. This tutorial will equip you with the essential knowledge to also start working on your own microcontroller projects.
+After going through this tutorial, you will gain a basic understanding of how to work with the Raspberry Pi Pico W, the DHT11 sensor, Adafruit, and MicroPython. You will learn about the features and applications of the Raspberry Pi Pico WH microcontroller board, collect temperature and humidity data using the DHT11 sensor, explore the capabilities of Adafruit for expanding your project options, and use MicroPython to write code for interacting with hardware components. This tutorial will equip you with the essential knowledge to also start working on your own microcontroller projects.
 
 # 2. Material
 | Material name | Functionality | Where to buy | Cost |
