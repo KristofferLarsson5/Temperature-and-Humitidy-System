@@ -87,6 +87,8 @@ Step 1: Head over to adafruit and create an user: www.adafruit.com
 
 Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simple (You can verify that it’s been installed by checking the file section in Thonny)
 
+Step 3: Save the files onto your Raspberry pi
+
 ![2023-06-29 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/7a331f4f-f066-4ea0-ace1-616615552b1a)
 
 **5.3 Creation of feeds and dashboard**
