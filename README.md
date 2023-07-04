@@ -43,17 +43,17 @@ Although that Thonny were my choice I actually also tried to use VScode and it a
 
 **3.2 Setting up the raspberry**
 
-Step 1: Remove the black sponge from the Pico
+Step 1: Remove the black sponge from the Pico.
 
 Step 2: Download the micropython firmware, you will get a uf2 file, be sure to chose the latest from **releases** category: https://micropython.org/download/rp2-pico-w/
 
-Step 3: Connect your raspberry pi to your computer by using the micro-usb cable
+Step 3: Connect your raspberry pi to your computer by using the micro-usb cable.
 
-Step 4: While holding the BOOTSEL key on the raspberry, connect to your computer. Release the button after you see a new drive with the name RPI-RP2
+Step 4: While holding the BOOTSEL key on the raspberry, connect to your computer. Release the button after you see a new drive with the name RPI-RP2.
 
-Step 5: Paste the uf2 file into the raspberry and wait till it disconnects and reconnects to your computer
+Step 5: Paste the uf2 file into the raspberry and wait till it disconnects and reconnects to your computer.
 
-You have now updated the firmware on your raspberry and are ready to use it
+You have now updated the firmware on your raspberry and are ready to use it!
 
 **3.3 Setting up Thonny**
 
@@ -67,7 +67,7 @@ Step 3: Open interpreter from Run >> Configure interpreter
 
 ![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/60ee4bb9-97ea-4e4e-85ca-264da4cdcbc6)
 
-Step 4: Choose MicroPython as your interpreter and after that choose your USB-port that is connected to your raspberry
+Step 4: Choose MicroPython as your interpreter and after that choose your USB-port that is connected to your raspberry.
 
 ![image](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/0ce9545f-c483-4f29-b0e4-763fa4cd066e)
 
@@ -84,15 +84,15 @@ For more information on the raspberry pi checkout **https://www.raspberrypi.com/
 # 5. Platforms and infrastructure
 **5.1 Why I choose MQTT as my messaging protocol and Adafruit as my platform**
 
-After just a couple of tries with MQTT I quickly realized that this would be more than enough for this project. I navigated to the Adafruit website and quickly got started with sending data from my device to the internet. The technical aspect was in my opinion not very hard to understand, and the code that you needed to provide were straightforward (more on this in the next part)
+After just a couple of tries with MQTT I quickly realized that this would be more than enough for this project. I navigated to the Adafruit website and quickly got started with sending data from my device to the internet. The technical aspect was in my opinion not very hard to understand, and the code that you needed to provide were straightforward (more on this in the next part).
 
 **5.2 How to get acess to MQTT with Thonny**
 
 Step 1: Head over to adafruit and create an user: www.adafruit.com
 
-Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simple (You can verify that it’s been installed by checking the file section in Thonny)
+Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simple (You can verify that it’s been installed by checking the file section in Thonny).
 
-Step 3: Save the files onto your Raspberry pi
+Step 3: Save the files onto your Raspberry pi.
 
 ![2023-06-29 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/7a331f4f-f066-4ea0-ace1-616615552b1a)
 
@@ -140,7 +140,7 @@ print("Connected to WiFi")
 
 **main.py**
 
-This is a snippet of the file that runs after boot.py have connected to the internet, beware that you need to enter your Adafruit IO username, IO key, MQTT topics which are the feeds we created earlier (check 5.3) and a mqtt_client_id.
+This is a snippet of the file that runs after boot.py have connected to the internet, this will be done automatically. Beaware that you need to enter your Adafruit IO username, IO key, MQTT topics which are the feeds we created earlier (check 5.3) and a mqtt_client_id.
 
 After this have been done your sensors will collect the data and send it to your adafruit feeds.
 
