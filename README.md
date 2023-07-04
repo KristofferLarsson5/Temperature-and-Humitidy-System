@@ -198,7 +198,7 @@ finally:
 
 ```
 # 7. The physical network layer
-The DHT11 sensor collects information like temperature and humidity. This information travels through the cables to the microcontroller. The microcontroller then sends the data to Adafruit using WiFi. At Adafruit, the data is shown on a line chart, which is a visual representation of how the values change over time.
+The DHT11 sensor collects information like temperature and humidity. This information travels through the cables to the microcontroller. The microcontroller then sends the data to Adafruit using Wi-Fi. At Adafruit, the data is shown on a line chart, which is a visual representation of how the values change over time.
 # 8. Visualization
 The image below is from the microPython Shell, and here it tells us that our data have been published!
 ![2023-07-01](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/20ac4542-8675-4074-8dbb-9d78fdeeffcf)
