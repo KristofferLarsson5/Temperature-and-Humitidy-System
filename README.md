@@ -4,7 +4,7 @@ Student credentials: kl223kk
 
 Date: 2023 july
 # Temperature-and-Humitidy-System
-In this tutorial I will provide you with a comprehensive guide on utilizing the Raspberry Pi Pico W to wirelessly transmit humidity and temperature information from any location where you have access to WiFi and a power source. You will need a Raspberry Pi Pico W, a DHT11 sensor, MicroPython code, an Adafruit account and a computer. I'll show you how to set up the Raspberry Pi Pico W, connect the DHT11 sensor, and write code in MicroPython to collect and transmit the data. By following the instructions you'll learn the basics of these components and be able to create a system that monitors and sends humidity and temperature data.
+In this tutorial I will provide you with a comprehensive guide on utilizing the Raspberry Pi Pico W to wirelessly transmit humidity and temperature information from any location where you have access to Wi-Fi and a power source. You will need a Raspberry Pi Pico W, a DHT11 sensor, MicroPython code, an Adafruit account and a computer. I'll show you how to set up the Raspberry Pi Pico W, connect the DHT11 sensor, and write code in MicroPython to collect and transmit the data. By following the instructions you'll learn the basics of these components and be able to create a system that monitors and sends humidity and temperature data.
 
 Time estimation for project: 5 hours
 
@@ -203,7 +203,7 @@ The DHT11 sensor collects information like temperature and humidity. This inform
 The image below is from the microPython Shell, and here it tells us that our data have been published!
 ![2023-07-01](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/20ac4542-8675-4074-8dbb-9d78fdeeffcf)
 
-And here is an example in adafruit how it can looks when we decide to make a graph of it. The example I use is circa 10 minutes, but the limitation of the duration which you want to collect data is up to you as an user, you can let it run for as long as you have a power source for the microcontroller and connection to WiFi.
+And here is an example in adafruit how it can looks when we decide to make a graph of it. The example I use is circa 10 minutes, but the limitation of the duration which you want to collect data is up to you as an user, you can let it run for as long as you have a power source for the microcontroller and connection to Wi-Fi.
 ![2023-07-01 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/2c7281f7-9d88-4cdb-993f-605c507e5b37)
 
 # 9. Finalizing the design
