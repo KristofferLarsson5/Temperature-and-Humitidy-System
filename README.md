@@ -117,7 +117,7 @@ After this you can start programming, the next step will explain how to do that!
 
 In MicroPython, boot.py is a special filename that is commonly used for a script that runs automatically when a MicroPython device boots up. This file is executed during the boot process, allowing you to perform initialization tasks or set up the device's configuration before the main application code is run.
 
-In this Boot.py-file we connect to the WiFi, the only thing you have to do is copy my code in the boot.py file and enter your own wifi_ssid and wifi_password! 
+In this Boot.py-file we connect to the Wi-Fi, the only thing you have to do is copy my code in the boot.py file and enter your own wifi_ssid and wifi_password! 
 
 ``` python
 import network
