@@ -51,7 +51,7 @@ Step 3: Connect your raspberry pi to your computer by using the micro-usb cable.
 
 Step 4: While holding the BOOTSEL key on the raspberry, connect to your computer. Release the button after you see a new drive with the name RPI-RP2.
 
-Step 5: Paste the uf2 file into the raspberry and wait till it disconnects and reconnects to your computer.
+Step 5: Paste the uf2 file into the raspberry pi pico and wait till it disconnects and reconnects to your computer.
 
 You have now updated the firmware on your raspberry and are ready to use it!
 
@@ -80,7 +80,7 @@ You now have succeded with connecting your raspberry to Thonny, and your chosen 
 ![Alt Text](2023-06-13.png)
 **Note: The importance here isn't that you place the microcontroller on the exact same spot as I've done it, but rather that the wiring is the same**
 
-For more information on the raspberry pi checkout **https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html**
+For more information on the raspberry pi pico checkout **https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html**
 # 5. Platforms and infrastructure
 **5.1 Why I choose MQTT as my messaging protocol and Adafruit as my platform**
 
@@ -92,7 +92,7 @@ Step 1: Head over to adafruit and create an user: www.adafruit.com
 
 Step 2: Now in Thonny go to Tools >> Packages and install micropython-umqtt-simple (You can verify that it’s been installed by checking the file section in Thonny).
 
-Step 3: Save the files onto your Raspberry pi.
+Step 3: Save the files onto your Raspberry pi pico.
 
 ![2023-06-29 (1)](https://github.com/KristofferLarsson5/Temperature-and-Humitidy-System/assets/117590527/7a331f4f-f066-4ea0-ace1-616615552b1a)
 
