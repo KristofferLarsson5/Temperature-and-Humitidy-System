@@ -41,7 +41,7 @@ The primary factor that influenced my decision to opt for Thonny as my preferred
 
 Although that Thonny were my choice I actually also tried to use VScode and it also worked quite well, though in this tutorial I will only cover Thonny, but remember that VScode absolutly also is an option.
 
-**3.2 Setting up the raspberry**
+**3.2 Setting up the Raspberry**
 
 Step 1: Remove the black sponge from the Pico.
 
