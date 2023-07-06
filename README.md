@@ -111,6 +111,7 @@ https://www.youtube.com/watch?v=ybCMXqsQyDw
 It doesn't explain this tutorial but it can give you an understanding of how to work with MQTT.
 
 **5.3 The way that MQTT and Adafruit will be used in this project**
+
 By connecting our raspberry pi pico to the internet via Wi-fi, we will be able to send the sensor data by using MQTT to our Adafruit dashboard every ten seconds. 
 This is a topic that we will dive more into in the next part!
 # 6. The code
