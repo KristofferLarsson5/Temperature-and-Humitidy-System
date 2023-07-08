@@ -25,7 +25,7 @@ After going through this tutorial, you will gain a basic understanding of how to
 # 2. Material
 | Material name | Functionality | Where to buy | Cost |
 |----------|----------|----------|----------|
-| Raspberry Pi Pico W   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on Wi-Fi.   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   | 98kr |
+| Raspberry Pi Pico WH   | Microcontroller that runs programs and have multiple pins for connections to sensors. Also has the capability of running on Wi-Fi.   | https://www.electrokit.com/produkt/raspberry-pi-pico-w/   | 98kr |
 | USB to micro-USB cable    | Transfers electricity to the microcontroller, which both gives it electricity to run, but also makes it possible to program it when plugged into a computer.   | https://www.electrokit.com/produkt/usb-kabel-a-hane-mini-b-hane-5p-1-8m/| 39kr |
 | Sensor DHT11   | A sensor that measures the temperature and humidity.   | https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/| 49kr |
 | Breadboard| A breadboard with connections that makes it easier to connect the microcontroller with the sensors.   | https://www.electrokit.com/en/product/solderless-breadboard-400-tie-points/   | 49kr |
