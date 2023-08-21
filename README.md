@@ -47,7 +47,7 @@ Step 1: Remove the black sponge from the Pico.
 
 Step 2: Download the micropython firmware, you will get a uf2 file, be sure to chose the latest from **releases** category: https://micropython.org/download/rp2-pico-w/
 
-Step 3: Connect your raspberry pi to your computer by using the micro-usb cable.
+Step 3: Connect your raspberry pi pico to your computer by using the micro-usb cable.
 
 Step 4: While holding the BOOTSEL key on the raspberry, connect to your computer. Release the button after you see a new drive with the name RPI-RP2.
 
